@@ -1,0 +1,40 @@
+#buttonAddNew{
+    background-color: #017592;
+    border-radius: 10%;
+}
+#inputs{
+    margin-left: 1rem;
+    background-color: #045af9;
+
+}
+#buttonAdd{
+    float: left;
+    background-color: #0cdcef;
+    border-radius: 10%;
+    box-shadow: '0 0 60px rgba(0, 0, 0, 0.9)'
+}
+#buttonCancel{
+    float: right;
+    background-color: #7e0857;
+    box-shadow: '0 0 60px rgba(0, 0, 0, 0.9)'
+}
+#th2rem{
+    width: 2rem;
+}
+#th8rem{
+    width: 8rem;
+}
+#contenedor{
+    display: flex;
+    justify-content: left;
+    background-color: #e40dfc;
+    padding: '20px',
+    
+}
+
+.fondoAr{
+    background-color: #0cdcef;
+}
+.fondoM{
+    background-color: #0cdcef;
+}
