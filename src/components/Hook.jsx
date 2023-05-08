@@ -3,7 +3,7 @@ let i=0
 const Hook=()=> {
 
     const [titulo, setTitulo]=useState("Titulo original")
-    const [prevState,setPrevState]=useState('')
+    const [setPrevState]=useState('')
 
     const changeTitle=()=>{
         i++
